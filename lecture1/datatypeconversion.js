@@ -18,3 +18,4 @@ console.log(changedvar)
 //"23"=>true
 //"0"=>true
 //"ram"=>true
+//*****************Operation*************** */
